@@ -1,4 +1,4 @@
-#Omnifood
+# Omnifood
 
 in this project i followed up jonas course [Build Responsive Real-World Websites with HTML and CSS
 ](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
@@ -11,7 +11,7 @@ here is the [roadmap](https://docs.google.com/document/u/0/d/1Y6yScW88oaN5jHgcyo
 
 ---
 
-##Technologies used
+## Technologies used
 
 - VS code
 - HTML
@@ -19,7 +19,7 @@ here is the [roadmap](https://docs.google.com/document/u/0/d/1Y6yScW88oaN5jHgcyo
 - Mobile Responsive
 - javascript
 
-#Installation
+## Installation
 it's pretty straightforward
 
 - `git clone https://github.com/mohamed-sameer/omnifood.git`
