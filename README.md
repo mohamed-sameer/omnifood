@@ -22,5 +22,6 @@ here is the [roadmap](https://docs.google.com/document/u/0/d/1Y6yScW88oaN5jHgcyo
 #Installation
 it's pretty straightforward
 
-- `git clone this repo`
+- `git clone https://github.com/mohamed-sameer/omnifood.git`
+- open the folder you already cloned
 - open index.html file directly in the browser you have
